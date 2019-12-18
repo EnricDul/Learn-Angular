@@ -42,6 +42,8 @@ export class AppComponent {
 Comme dis plus haut, il existe d'autres décorateurs très utilisés sur Angular. Voici le listing des plus populaires :
 
 1. @Injectable 
+2. @Input
+3. @Output
 
 
 
